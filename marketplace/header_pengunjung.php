@@ -4,7 +4,7 @@
         <a class="navbar-brand" href="index.php">
             <img src="assets/img/orcois_white.png" width="100" height="30" alt="logo perusahaan">
         </a>
-
+<!-- membuat header -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
