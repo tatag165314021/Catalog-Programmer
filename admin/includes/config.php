@@ -1,5 +1,6 @@
 <?php
-define('DB_SERVER','203.114.74.62');
+// with ip address no_name
+define('DB_SERVER','no_name');
 define('DB_USER','orcoiste_root');
 define('DB_PASS' ,'sumaterad11b');
 define('DB_NAME','orcoiste_root');
